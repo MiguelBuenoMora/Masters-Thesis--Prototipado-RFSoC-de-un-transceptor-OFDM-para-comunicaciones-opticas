@@ -1,4 +1,4 @@
-#Tesis Miguel 
+# Tesis Miguel 
 ## Autor Miguel Bueno 
 
 Este repositorio contiene el código desarrollado durante el Trabajo de Fin de Máster "Prototipado y validación en la plataforma RFSoC de un transceptor OFDM de banda ancha para comunicaciones ópticas". 
