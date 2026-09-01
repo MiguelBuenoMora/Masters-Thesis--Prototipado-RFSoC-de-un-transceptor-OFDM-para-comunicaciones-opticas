@@ -1,4 +1,4 @@
-# Trabajo Final de Máster 
+# Repositorio de código para el Trabajo Final de Máster: Prototipado y validación en la plataforma RFSoC de un transceptor OFDM de banda ancha para comunicaciones ópticas
 ## Autor: Miguel Bueno Mora 
 
 Este repositorio contiene el código desarrollado durante el Trabajo de Fin de Máster "Prototipado y validación en la plataforma RFSoC de un transceptor OFDM de banda ancha para comunicaciones ópticas". 
